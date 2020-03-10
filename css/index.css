@@ -1,0 +1,9 @@
+.marcas {
+    width: 1135px;
+    height: 300px;
+}
+
+body {
+    /* fixed center fija la imagen y permite scroll */
+    background: url("../img/fondo.jpg") no-repeat fixed center;
+}
